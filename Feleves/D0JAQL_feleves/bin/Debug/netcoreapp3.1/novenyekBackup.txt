@@ -1,0 +1,6 @@
+5
+muskátli,1,5,2020/11/15,False
+tulipán,2,1,2020/11/16,False
+rózsabokor,2,5,2020/11/15,True
+kamillavirág, 2, 2, 2020/11/23, False
+ezüstfenyő, 0, 10, 2020/11/20, True
